@@ -1,4 +1,4 @@
-# Reponse [vkh]
+# Reponse VKH
 
 ## Commande passée
 
